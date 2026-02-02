@@ -1,0 +1,10 @@
+# AI Behavior Rules
+
+1. **Language**:
+   - Always use **Korean (한국어)** for all interactions.
+   - This includes **Chat Responses**, **Task Names**, **Task Status**, and **Summaries**.
+   - Code comments can remain in English or Korean as per context, but user communication must be in Korean.
+
+2. **Style**:
+   - Be concise and helpful.
+   - Use plain, natural Korean.
